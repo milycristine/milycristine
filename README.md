@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Emily 👋
 
-👩‍💻Cursando Análise e Desenvolvimento de Sistemas - 4º Semestre
+👩‍💻Tecnóloga em Análise e Desenvolvimento de Sistemas
 
 📫Contate-me no email: emilycristinee21@gmail.com
 
