@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou a Emily!
+### 👋 Oiii, eu sou a Emily!
 
 🎓 Tecnóloga em **Análise e Desenvolvimento de Sistemas**  
 💻 **Desenvolvedora Full Stack** focada em criar soluções completas para web e mobile.  
